@@ -43,6 +43,10 @@ It also categorizes loans into:
 This helps in understanding portfolio health and repayment risk.
 
 ---
+ 
+### Summary Dashboard Preview
+
+![Summary](1.png)
 
 ### 2. Overview Dashboard
 
@@ -60,6 +64,9 @@ It includes:
 This page helps identify patterns and borrower behavior.
 
 ---
+### Overview Dashboard Preview
+
+![Overview](2.png)
 
 ### 3. Details Dashboard
 
@@ -77,6 +84,10 @@ This page provides detailed loan-level data including:
 It is useful for detailed portfolio review.
 
 ---
+### Details Dashboard
+
+![Details](3.png)
+
 
 ## Tools Used
 
@@ -95,16 +106,6 @@ It is useful for detailed portfolio review.
 
 ---
 
-## Dashboard Preview
-
-### Summary Dashboard
-![Summary](1.png)
-
-### Overview Dashboard
-![Overview](2.png)
-
-### Details Dashboard
-![Details](3.png)
 
 ---
 
