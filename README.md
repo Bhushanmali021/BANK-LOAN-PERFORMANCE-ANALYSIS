@@ -68,7 +68,7 @@ This page helps identify patterns and borrower behavior.
 
 ![Overview](2.png)
 
-### 3. Details Dashboard
+### 3. Details Dashboard Preview
 
 This page provides detailed loan-level data including:
 
