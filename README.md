@@ -68,7 +68,7 @@ This page helps identify patterns and borrower behavior.
 
 ![Overview](2.png)
 
-### 3. Details Dashboard Preview
+### 3. Details Dashboard 
 
 This page provides detailed loan-level data including:
 
@@ -84,7 +84,7 @@ This page provides detailed loan-level data including:
 It is useful for detailed portfolio review.
 
 ---
-### Details Dashboard
+### Details Dashboard Preview
 
 ![Details](3.png)
 
